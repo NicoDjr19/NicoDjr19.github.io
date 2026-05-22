@@ -1,0 +1,38 @@
+Zvinaishe Nicodemus Marume
+Student at National University of Science and Technology
+Email: mzvinaishe@gmail.com
+Portfolio: https://NicoDjr19.github.io
+GitHub: https://github.com/NicoDjr19/marume_bounds
+
+EDUCATION
+National University of Science and Technology (NUST)
+Bachelor of Science in Computer Science
+Expected graduation: 2028
+
+SKILLS
+Python, NumPy, Matplotlib, Git, Mathematics, Algorithms
+
+PROJECTS
+Marume Bounds (2025-2026)
+- Discovered mathematical bounds for polynomial roots
+- Achieved 20.37x speedup in Bézier curve intersection (graphics)
+- Achieved 2.03x speedup in robotics collision detection
+- Published code on GitHub: 20+ stars
+
+Robotics Collision Detection Demo
+- Real-time path planning for robot arms
+- 2.03x faster than standard methods
+
+Graphics (Bézier Curves) Demo
+- Curve intersection detection for vector graphics
+- 20.37x average speedup
+
+EDUCATION HIGHLIGHTS
+- Original mathematical research as undergraduate
+- Proficient in Python, data structures, algorithms
+
+INTERESTS
+Robotics, Computer Graphics, Algorithms, Mathematics
+
+REFERENCES
+Available upon request
